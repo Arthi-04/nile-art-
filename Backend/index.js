@@ -8,8 +8,14 @@ dotenv.config()
 const app=express()
 const port=7000
 
-app.use(cors())
 app.use(express.json())
+app.use(
+  cors({
+    origin: "https://nile-art-1.onrender.com", // your frontend URL
+    methods: ["GET", "POST", "PUT", "DELETE"],  // allowed methods
+    credentials: true                           // if you use cookies/auth headers
+  })
+);
 
 const users = [];  // To store no of users
 
