@@ -29,7 +29,7 @@ const Register = () => {
             const fata={firstname,lastname,gender,email,phonenumber,password,confirmpassword};
             // console.log(foods,"foods in object ");
             
-            fetch('http://localhost:7000/register',{
+            fetch('https://nile-art.onrender.com/register',{
                 method:"POST",
                 headers:{
                     'Content-Type':'application/json'
