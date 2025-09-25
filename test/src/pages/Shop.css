@@ -1,0 +1,32 @@
+   .row{
+    
+    width:90%;
+    display: flex;
+    margin-left: 70px;
+} 
+.card{
+    margin: 20px;
+}
+
+
+
+.r1, .r2{
+    width: 100%;
+    display: flex;
+    margin-top: 25px;
+    margin-left: 30px;
+}
+.cl2, .cl3 {
+    margin-top: 60px;
+    margin-left: 50px;
+}
+.cl4 img{
+       margin-left: 90px;
+}
+
+
+
+
+
+
+

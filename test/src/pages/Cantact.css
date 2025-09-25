@@ -1,0 +1,40 @@
+.rw{
+    width:100%;
+   
+} 
+h1{
+    padding-top: 20px;
+}
+.colmn{
+    width: 100%;
+    display: flex;
+    margin-left:450px;
+}
+
+   
+.colmn input{
+      width:70%;
+      height: 6vh;
+     margin-bottom: 20px; 
+     margin-left: 20px;
+}
+
+
+
+
+.colmn2 input{
+    width: 30%;
+    height: 6vh;
+   
+}
+.q {
+    border-radius: 20px;
+    width: 12%;
+    height: 5vh;
+    padding-bottom: 20px;
+}
+
+
+
+
+   

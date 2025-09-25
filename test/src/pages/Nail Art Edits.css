@@ -1,0 +1,53 @@
+.ro{
+      
+    width: 100%;
+    margin-top: 20px;
+
+}
+.ro h3{
+    color: rgb(85, 84, 84);
+}
+.co3{
+
+    width:80%;
+    display: flex;
+    margin-top: 20px;
+    
+
+}
+.co3 P  {
+     text-align: center;
+     padding-left: 100px;
+} 
+.co3 h3{
+    padding-left: 90px;
+    padding-top: 20px;
+}
+.co3 img{
+    margin-left: 110px;
+    
+}
+.rq{
+    background-color: rgba(240, 230, 218, 0.63);
+    margin-top: 20px;
+}
+.rq h3{
+    padding-top: 30px;
+}
+
+
+   
+
+
+
+
+
+.row{
+    
+    padding: 30px;
+     /* background-color: rgb(245, 215, 238); */
+
+}
+
+
+

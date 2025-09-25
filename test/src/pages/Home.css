@@ -1,0 +1,39 @@
+/* .ri{
+     background-color: rgb(245, 215, 238);
+} */
+.co{
+    padding-top: 30px;
+}
+.col1{
+    width:90%;
+   display: flex; 
+}
+.col1 img{
+    width:33.3%;
+    margin-left: 35px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+ .col2{
+    width:90%;
+   display: flex; 
+ }
+.col2 img{
+    width:33.3%;
+    margin-left: 35px;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.vv{
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
