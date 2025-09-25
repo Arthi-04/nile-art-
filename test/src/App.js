@@ -41,7 +41,7 @@ function App() {
         <Route path="/Shop" element={<Shop/>}/>
         <Route path="/NailArtEdits" element={<NailArtEdits/>}/>
         <Route path="AboutUs" element={<Aboutus/>}/>
-        <Route path="Cantact Us" element={<CantactUs/>}/>
+        {/* <Route path="Cantact Us" element={<CantactUs/>}/> */}
         <Route path="Cart" element={<Cart/>}/>
         <Route path="Care" element={<Care/>}/>
         <Route path='/parrat' element={<Counter/>}/>
@@ -50,7 +50,7 @@ function App() {
         <Route path='/HowTo' element={<HowTo/>}/>
         {/* <Route path='/update' element={<Update/>}/> */}
         {/* <Route path='/edit/:id' element={<Edit/>}/> */}
-        <Route path='/register' element={<Register/>}/>
+        {/* <Route path='/register' element={<Register/>}/> */}
         <Route path='/find' element={<Find/>}/>
         <Route path='/design/:id' element={<Design/>}/>
         {/* <Route path='/Single' element={<Single/>}/> */}

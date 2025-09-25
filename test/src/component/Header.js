@@ -33,18 +33,18 @@ const Header = () => {
   <li class="nav-item">
     <Link class="nav-link" to="/AboutUs">ABOUTUS</Link>
   </li>
-  <li class="nav-item">
+  {/* <li class="nav-item">
     <Link class="nav-link" to="/Cantact Us">CANTACT US</Link>
-    </li>
+    </li> */}
     <li class="nav-item">
     <Link class="nav-link" to="/Cart">CARTS</Link>
     </li>
         {/* <li class="nav-item">
     <Link class="nav-link" to="/upload">UPLOAD</Link>
   </li> */}
-   <li class="nav-item">
+   {/* <li class="nav-item">
     <Link class="nav-link" to="/Register">REGISTER</Link>
-  </li>
+  </li> */}
   {/* <li class="nav-item">
     <Link class="nav-link" to="/Single">SINGLE</Link>
   </li> */}
