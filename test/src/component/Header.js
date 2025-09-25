@@ -42,9 +42,9 @@ const Header = () => {
         {/* <li class="nav-item">
     <Link class="nav-link" to="/upload">UPLOAD</Link>
   </li> */}
-   {/* <li class="nav-item">
+   <li class="nav-item">
     <Link class="nav-link" to="/Register">REGISTER</Link>
-  </li> */}
+  </li>
   {/* <li class="nav-item">
     <Link class="nav-link" to="/Single">SINGLE</Link>
   </li> */}

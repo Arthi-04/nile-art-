@@ -46,11 +46,11 @@ function App() {
         <Route path="Care" element={<Care/>}/>
         <Route path='/parrat' element={<Counter/>}/>
         <Route path='/CartPage' element={<Cartpage/>}/>
-        <Route path='/upload' element={<Upload/>}/>
+        {/* <Route path='/upload' element={<Upload/>}/> */}
         <Route path='/HowTo' element={<HowTo/>}/>
-        {/* <Route path='/update' element={<Update/>}/> */}
+        <Route path='/update' element={<Update/>}/>
         {/* <Route path='/edit/:id' element={<Edit/>}/> */}
-        {/* <Route path='/register' element={<Register/>}/> */}
+        <Route path='/register' element={<Register/>}/>
         <Route path='/find' element={<Find/>}/>
         <Route path='/design/:id' element={<Design/>}/>
         {/* <Route path='/Single' element={<Single/>}/> */}
